@@ -1,5 +1,4 @@
 
-
 # Calculus
 
 1. $$(lnx^{lnx})'$$
@@ -20,11 +19,11 @@
 5. Concepts
    1. Remann vs Lebesgue
 6. Tricks
-   1. x^x^... = 2, x = ? if = 4, x = ? 
+   1. x^x^... = 2, x = ? if = 4, x = ?
 
 # Algebra
 
-* 100th digit of \(1+sqrt\(2\)\)^3000 
+* 100th digit of \(1+sqrt\(2\)\)^3000
   * use Binomial Theorem
 
 # Stochastic Calculus
@@ -35,11 +34,8 @@
   * continuous
   * Markov
 * First passage time
-  * Martingale stops at stopping time 
+  * Martingale stops at stopping time
   * reflection principle
 * Martingale
   * B\(t\)-t, exponential martingale
 * Ito's Lemma
-
-
-
