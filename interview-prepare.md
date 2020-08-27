@@ -52,5 +52,5 @@ Example:
   * Tell what you are doing, your background story, your goal and value
   * Remember names
   * Rleasant and engaging
-* Techinical Questions - Checklist Approach
+* Techinical Questions - Use a Checklist Approach
   * Deliberate practice

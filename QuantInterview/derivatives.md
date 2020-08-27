@@ -7,7 +7,7 @@ Option Pricing
 * Put-call Parity \(c - p = S - PV\(K\)\)
 * Black-Scholes P.D.E
   * for American options, &lt;= 0
-* Black-Scholes formula, Black's formula
+* [Black-Scholes formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_equation#:~:text=In%20mathematical%20finance%2C%20the%20Black,%2C%20or%20more%20generally%2C%20derivatives.), [Black's formula](https://en.wikipedia.org/wiki/Black_model)
   * difference Black's vs. Black Scholes
 
 Option Trading Strategies
@@ -35,6 +35,7 @@ Greeks change with
   * stochastic volatility models
   * smile
   * term structure
+
 ### Option price
 
 * S, K, T-t, sigma, r, d

@@ -78,6 +78,3 @@ More to show in the interview, tell stories about these
 * detail-oriented
 * work independently, ownerships
 * multiple task, fast paced enviornment
-
-
-
