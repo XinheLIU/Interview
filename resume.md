@@ -1,67 +1,56 @@
-## Resume Verbs
+# Resume Preparation
 
-## Technical Buzz words
+## Resume as a Product
 
-### Basic
+### Devlop your resume as a product by continously upgrading it (by iterations)
 
-* Hypothesis testing
-* Backtest/backtesting framework
-* Statistical significance
-* Risk-parity
-* Cross-asset
-* Factor investing
-* Portfolio management
-  * Strategies, strategy research, investment models
-  * Portfolio Risk management
-  * Factor risk model
-  * Performance attribution
-* Systematic investing strategies
-  * Quantitative and computational
-  * Economic research
-* Risk management
-* Proprietary 
+* Design it
+  * 15-s rule: HR needs to understand you in less than 15s
+  * Talk to people in the organization for feedbacks and opinions
+  * Responsibilities vs. Results
+* Test it
+  * Test it with "second tier" companies
+  * Test what will be asked in interviews
+  * Feedback from other people
+* Target users
+  * Target "first tier" companies
+  * Test it in interviews
+  
+### Writing and Practice (to speak about it) Experiences
 
-## Advanced
+* TAR （STAR）Style
+  * Situation (explain)
+    * Reason and business value
+    * Survey and Feasibility Analysis
+  * Task (explain + write)
+    * Priorities and challenges
+    * Alternatives you have
+  * A
+    * Focus on challenges
+    * Explain Trade-offs
+  * R
+    * numbers
+    * Learnings
 
-* Alternative data
-* Text mining
-* Q-learning
-* Economic data, economic indicator
-* Latent variable model
-* Bayesian \(Learning\)
-  * Prior
-* Systematic trading\(investing\) strategies
-  * Asset class, cross-asset
-    * Equity indices, macroeconomic data
-  * Systematic futures
-  * Equity arbitrage
-    * Market inefficiency
-  * Active equity
-    * Long-only, extended long, long-short
-  * Metrics
-    * Capital allocation, leverage and book size
-    * return, PnL, maxdrawdown, Sharpe ratio
-    * target volatility, holding period, potential for scalability
-* Data Science
-  * Statistical analysis, statistical modeling
-    * missing data imputation
-    * data cleasing
-  * Platform
-  * pipeline
-  * Visualize, data visualization, dashboard
-  * Explore, data exploration
-  * Alternative data mining
-* Engineering
-  * portfolio construction and implementation 
-  * flexible and scalable, high-performance
-    * accuracy, usability, availability
-  * rebalancing platform 
-  * optimization engine and supporting algorithms and tools
-  * APIs 
-  * cloud computing, parallel computing
-  * microservices
-* product
-  * \[Asset Class\] Pricing/Risk Analytics
+### The "Others" Part
+
+* Interests
+  * more relevant (eg. product + writing or travel)
+  * show some results (you can dig in and lead)
+* Skills
+    * Some results
+
+## Best Practices
+
+* **Use action words**
+  * [Power words](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
+  * 主导 制定 创建 完善 解决 降低 输出 领导
+* numbers is everything
+* key words and [buzz words](https://www.datapine.com/blog/business-intelligence-buzzwords/)
+  * 用户调研 项目管理 协调 流程 推广 运营 评审 设计 竞品分析
+  * Hypothesis testing, Backtest/backtesting framework, Statistical significance
+  * Risk-parity, Cross-asset, Factor investing, Portfolio management
+  * Alternative data, Text mining, Q-learning
 
 ## Personality/ Personal traits
 
